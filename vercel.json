@@ -10,8 +10,8 @@
     }
   ],
   "functions": {
-    "api/openai/create-chat-completion": {
-      "maxDuration": 60
+    "app/api/**/*": {
+      "maxDuration": 50
     }
   }
 }
