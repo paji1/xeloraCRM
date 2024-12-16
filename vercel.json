@@ -12,6 +12,9 @@
   "functions": {
     "app/api/**/*": {
       "maxDuration": 50
+    },
+    "app/[local]/**/*": {
+      "maxDuration": 50
     }
   }
 }
