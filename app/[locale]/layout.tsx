@@ -81,9 +81,9 @@ export default async function RootLayout(props: Props) {
           name="viewport"
           content="width=device-width, height=device-height, initial-scale=1"
         />
-        <meta property="og:url" content="https://www.nextcrm.io" />
+        <meta property="og:url" content="https://www.xelora.tech" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="NextCRM" />
+        <meta property="og:title" content="xeloraCRM" />
         <meta
           property="og:description"
           content="NextCRM is an open source CRM build on top of NextJS. Technology stack: NextJS with Typescrtipt, MongoDB, TailwindCSS, React, Prisma, shadCN, resend.com, react.email and more."
@@ -91,12 +91,12 @@ export default async function RootLayout(props: Props) {
         <meta property="og:image" content="https://nextcrm.io/api/og" />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta property="twitter:domain" content="nextcrm.io" />
-        <meta property="twitter:url" content="https://www.nextcrm.io" />
-        <meta name="twitter:title" content="NextCRM" />
+        <meta property="twitter:domain" content="xelora.tech" />
+        <meta property="twitter:url" content="https://www.xelora.tech" />
+        <meta name="twitter:title" content="xeloraCRM" />
         <meta
           name="twitter:description"
-          content="NextCRM is an open source CRM build on top of NextJS. Technology stack: NextJS with Typescrtipt, MongoDB, TailwindCSS, React, Prisma, shadCN, resend.com, react.email and more."
+          content="xeloraCRM is an open source CRM build on top of NextJS. Technology stack: NextJS with Typescrtipt, MongoDB, TailwindCSS, React, Prisma, shadCN, resend.com, react.email and more."
         />
         <meta name="twitter:image" content="https://nextcrm.io/api/og" />
       </head>

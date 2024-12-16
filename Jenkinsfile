@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Checkout the Code/Github') {
       steps {
-        git(url: 'https://github.com/pdovhomilja/nextcrm-app', branch: 'main')
+        git(url: 'https://github.com/pdovhomilja/xeloracrm-app', branch: 'main')
       }
     }
 

@@ -14,8 +14,8 @@ NextCRM is a CRM build on top of the Next.JS 14 using TypeScript, great UI libra
 <a href="https://twitter.com/nextcrmapp">
 <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fnextcrmapp">
 </a>
-  <a href="https://github.com/pdovhomilja/nextcrm-app/blob/main/LICENSE">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/pdovhomilja/nextcrm-app">
+  <a href="https://github.com/pdovhomilja/xeloracrm-app/blob/main/LICENSE">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/pdovhomilja/xeloracrm-app">
   </a>
 </p>
 
@@ -108,8 +108,8 @@ Available soon at: http://docs.nextcrm.io
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/pdovhomilja/nextcrm-app.git
-   cd nextcrm-app
+   git clone https://github.com/pdovhomilja/xeloracrm-app.git
+   cd xeloracrm-app
    ```
 
 1. Install the preset:
@@ -206,12 +206,12 @@ We are open to the NextCRM community contributions. Every contribution is welcom
 
 ### Issues
 
-- [Open an issue](https://github.com/pdovhomilja/nextcrm-app/issues) if you find a bug or have a suggestion for improvements.
+- [Open an issue](https://github.com/pdovhomilja/xeloracrm-app/issues) if you find a bug or have a suggestion for improvements.
 
 ### NextCRM Super heroes
 
-<a href="https://github.com/pdovhomilja/nextcrm-app/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=pdovhomilja/nextcrm-app" />
+<a href="https://github.com/pdovhomilja/xeloracrm-app/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=pdovhomilja/xeloracrm-app" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
@@ -222,8 +222,8 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pdovhomilja/nextcrm-app&type=Timeline)](https://star-history.com/#pdovhomilja/nextcrm-app&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=pdovhomilja/xeloracrm-app&type=Timeline)](https://star-history.com/#pdovhomilja/xeloracrm-app&Timeline)
 
 ## License
 
-Licensed under the [MIT license](https://github.com/pdovhomilja/nextcrm-app/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/pdovhomilja/xeloracrm-app/blob/main/LICENSE.md).

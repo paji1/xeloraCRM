@@ -30,7 +30,7 @@ export async function POST(req: Request) {
 
   if (!process.env.NEXTCRM_TOKEN) {
     return NextResponse.json(
-      { message: "NEXTCRM_TOKEN not defined in .env.local file" },
+      { message: "xeloraCRM_TOKEN not defined in .env.local file" },
       { status: 401 }
     );
   }

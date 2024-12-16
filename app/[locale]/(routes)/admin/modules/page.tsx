@@ -28,7 +28,7 @@ const AdminModulesPage = async () => {
   return (
     <Container
       title="Modules administration"
-      description={"Here you can manage your NextCRM modules"}
+      description={"Here you can manage your xeloraCRM modules"}
     >
       <DataTable columns={columns} data={modules} search="name" />
     </Container>
