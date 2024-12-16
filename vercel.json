@@ -8,5 +8,10 @@
       "path": "/api/cron/send-daily-task-ai",
       "schedule": "0 6 * * *"
     }
-  ]
+  ],
+  "functions": {
+    "api/openai/create-chat-completion": {
+      "maxDuration": 60
+    }
+  }
 }
